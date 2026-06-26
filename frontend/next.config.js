@@ -1,0 +1,1 @@
+const nextConfig = {reactStrictMode: true, images: {domains: ['localhost'], unoptimized: process.env.NODE_ENV === 'development'}, env: {NEXT_PUBLIC_STRAPI_URL: process.env.NEXT_PUBLIC_STRAPI_URL || 'http://localhost:1337'}}; module.exports = nextConfig;

@@ -1,0 +1,1 @@
+{"name": "al-hama-cms", "private": true, "version": "1.0.0", "scripts": {"develop": "strapi develop", "start": "strapi start", "build": "strapi build"}, "devDependencies": {"@strapi/strapi": "4.15.0", "@strapi/plugin-users-permissions": "4.15.0", "@strapi/plugin-i18n": "4.15.0", "better-sqlite3": "9.0.0"}, "engines": {"node": ">=16.0.0 <21.0.0"}}
